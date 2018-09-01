@@ -1,0 +1,13 @@
+
+[1mApp Id [0m  [1mTitle[0m  [1mVersion[0m  [1miOS[0m       [1mAndroid[0m   [1mWindows[0m   [1mLast Built[0m
+-------  -----  -------  --------  --------  --------  ----------
+2710177         1.0.0    [31mFAILED  [39m  [32mSUCCESS [39m  [32mSUCCESS [39m  2017-07-14
+2713798         1.5.1    SKIPPED   [32mSUCCESS [39m  SKIPPED   2018-08-24
+2742754         1.0.0    SKIPPED   [32mSUCCESS [39m  SKIPPED   2017-08-06
+3236639         0.1.1    [31mFAILED  [39m  [32mSUCCESS [39m  SKIPPED   2018-07-15
+3272762         1.1.0    [31mFAILED  [39m  [32mSUCCESS [39m  SKIPPED   2018-08-24
+3279073         0.0.1    [31mFAILED  [39m  [32mSUCCESS [39m  [32mSUCCESS [39m  2018-08-23
+3281411         1.0.40   [31mFAILED  [39m  [32mSUCCESS [39m  [32mSUCCESS [39m  2018-08-30
+3286546         1.0.0    [31mFAILED  [39m  [32mSUCCESS [39m  [32mSUCCESS [39m  2018-08-30
+3287700                  [31mFAILED  [39m  [32mSUCCESS [39m  [32mSUCCESS [39m  2018-08-31
+
